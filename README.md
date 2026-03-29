@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates a self-healing application deployed on Kubernetes with monitoring and visualization using Prometheus and Grafana. It highlights how containerized applications can automatically recover from failures while providing real-time system metrics.
+This project demonstrates a self-healing application deployed on Kubernetes with monitoring and visualization using Prometheus and Grafana. It highlights how containerized applications can automatically recover from failures while providing real-time system metrics.Detects pod failures and applies automated remediation logic inside Kubernetes
 
 ## Tech Stack
 
